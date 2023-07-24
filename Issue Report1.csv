@@ -1,9 +1,8 @@
-﻿Issue ID,ID,Issue Type,Time Spent,status,summary,description,project,category,reporter,assignee,resolution,priority,severity,Product Version,created_at,updated_at,additional_information,steps_to_reproduce,Comments1,Comments2,Comments3,Comments4,Comments5,Comments6,Comments7,Comments8,Comments9,Comments10,Comments11,Comments12,Comments13,Comments14,Comments15,Comments16,Comments17,Comments18,Comments19,Comments20,Comments21,Comments22,Comments23,Comments24,Comments25,Comments26,Comments27,Comments28,Comments29,Comments30,Comments31,Comments32,Comments33,Comments34,Comments35,Comments36,Comments37,Comments38,Comments39,Comments40,Comments41,Comments42,Comments43,Comments44,Comments45,Comments46,Comments47,Comments48,Comments49,Comments50,Comments51,Comments52,Comments53,Comments54,Comments55,Comments56,Comments57,Comments58,Comments59,Comments60,Comments61,Comments62,Comments63,Comments64,Comments65,Comments66,Comments67,Comments68,Comments69,Comments70,Comments71,Comments72,Comments73,Comments74,Comments75,Comments76,Comments77,Comments78,Comments79,Comments80,Comments81,Comments82,Comments83,Comments84,Comments85,Comments86,Comments87,Comments88,Comments89,Comments90,Comments91,Comments92,Comments93,Comments94,Comments95,Comments96,Comments97,Comments98,Comments99,Comments100,Comments101,Comments102,Comments103,Comments104,Comments105,Comments106,Comments107,Comments108,Comments109,Comments110,Comments111,Comments112,Comments113,Comments114
-82854,82854,Task,1,Closed,979 : PROCES VERBAL - version PDF du PV et PLANCHE PHOTO - non affichage des photos des désordres,"Les photos en .jpg s'affichent bien
+﻿Issue ID,Issue Type,Time Spent,status,summary,description,reporter,assignee,resolution,priority,Product Version,created_at,updated_at,Comments1,Comments2,Comments3
+82854,Task,1,Closed,979 : PROCES VERBAL - version PDF du PV et PLANCHE PHOTO - non affichage des photos des désordres,"Les photos en .jpg s'affichent bien
 Les photos en .JPG ne s'affichent pas.
 
-idem pbl M903",H004978 - TMA MARION,Anomalie,mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,block,V4.3.2,2022-03-09T18:58:14.000+0000,2022-09-12T14:43:50.000+0000,"anomalie très urgente à corriger
-Merci",,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
+idem pbl M903",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,V4.3.2,03/09/2022 18:58,09/12/2022 14:43,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
 
 Bonjour,
 
@@ -18,18 +17,11 @@ Pièces jointes de la fiche","The following public comment was added by 'RATP_MO
 V4.3.11 - cette anomalie est à nouveau constatée.
 Sa résolution est urgente.
 Merci
-","The following public comment was added by 'mpichard' at '2022-05-13T17:52:28+02:00':
-
-Bonjour William,
-
-La livraison contenant le correctif de cette fiche a été effectuée ce jour.
-
-Cordialement
-Maxime PICHARD ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85748,85748,Task,1,In Progress,RECETTE V4.4.1 - Explorateur fiches techniques ligne - pour une meilleure présentation,"Je vous met les pdf des plans de ligne  à modifier en pj afin de remplacer ceux actuellement en place.
+"
+85748,Task,1,In Progress,RECETTE V4.4.1 - Explorateur fiches techniques ligne - pour une meilleure présentation,"Je vous met les pdf des plans de ligne  à modifier en pj afin de remplacer ceux actuellement en place.
 Amélioration de la lisibilité, espace entre le plan de ligne et le tableau des lieux.
 Concerne les lignes Orlyval, M1, M3B, M7B, M9, M13, M13B, T1, T2, T3B, T6, T7 et TCSP
-Merci",H004978 - TMA MARION,Anomalie,mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,minor,V4.3.2,2022-11-21T10:16:23.000+0000,2022-12-20T14:42:37.000+0000,,,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
+Merci",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,11/21/2022 10:16,12/20/2022 14:42,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
 
 Bonjour,
 
@@ -59,55 +51,10 @@ Pour les plans qui n'ont pas une bonne qualité pourrais-tu nous les renvoyer en
 Merci par avance
 
 Cordialement
-Maxime PICHARD",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85930,85930,Task,1,Closed,RECETTE V4.4.1 - Explorateur - Fiches Techniques ouvrages - rubrique Caracétristiques / caractéristiques - DIMENSIONS/DONNEES G,"Ecrire 
+Maxime PICHARD"
+85930,Task,1,Closed,RECETTE V4.4.1 - Explorateur - Fiches Techniques ouvrages - rubrique Caracétristiques / caractéristiques - DIMENSIONS/DONNEES G,"Ecrire 
 ""LONGUEUR TOTALE OUVRAGE""
-""HAUTEUR SOUS HOURDIS""",H004978 - TMA MARION,Evolution,mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,,V4.3.2,2022-12-15T15:21:10.000+0000,2023-01-09T15:48:20.000+0000,,"Reproduisons le cas sur une Conversion OS/OP de l'OS LC040 en OP LC050 
-cf. M904
-(le comportement est le même suite aux autres fonctions de modifications d'ouvrages)
-
-1/explorateur - ouvrir une ligne - ligne 2 - Lieu PLACE DE CLICHY / ROME
-
-2/Clic sur l'OP TU010 >> affichage des OS (ouvrages secondaires) du TU010
-
-3/Clic droit sur le LC040
-(Dans le PV antérieur, 2 désordres existent sur le LC040 du TU010)
-
-4/Choisir conversion OS/OP >> début du process de conversion
-
-5/saisir et choisir les éléments demandés
-
-6/Valider >> affichage de l'étape Migration des désordres :
-cette étape affiche le ou les désordres exitants dans le PV antérieur et localisés sur l'ouvrage que l'on converti. Elle permet le maintient de ces désordres dans le nouveau PV qui sera créé.
-
-7/Migration des désordres : cliquer sur enregistrer puis Fin de la migration
->> Le LC050 est maintenant un OP (Ouvrage Principal)
-
-8/à partir du menu : Administration - Gestion des PV - Gestion des groupes d'ouvrages VI
-
-9/ choisir Ligne 2 - Lieu PLACE DE CLICHY / ROME
-
-10/Créer un nouveau groupe d'ouvrages
-
-11/Choisir le type de PV et le secteur
-
-12/Cocher la case du LC050
-
-13/Affecter les OP
-
-14/à partir du menu : Administration - Gestion du planning - VP
-
-15/choisir Ligne 2 - Lieu PLACE DE CLICHY / ROME
-
-16/cliquer sur le groupe d'ouvrages contenant le LC050 dont la date est ""non défini""
-
-17/Saisir mois/année
-
-18/Créer le nouveau PV correspondant
-
-Vous constatez que le ou les désordres n'ont pas suivi
-
- ","The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
+""HAUTEUR SOUS HOURDIS""",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,V4.3.2,12/15/2022 15:21,01/09/2023 15:48,"The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
 
 Bonjour William,
 
@@ -128,10 +75,10 @@ Tu peux la passer en Evo, la charge étant minime nous l'intégrerons aux correc
 Cordialement
 Maxime PICHARD
 
-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87169,87169,Task,1,Open,V4.4.8 - PV - filtres OP et OS,"Sur n'importe quel PV : 
+"
+87169,Task,1,Open,V4.4.8 - PV - filtres OP et OS,"Sur n'importe quel PV : 
 -1 Je filtre un OP puis un OS de celui-ci
 -2 Je gère les désordres de cette OS
 -3 Je souhaite gérer les désordres d'un autre OS du même OP
 -4 J'ouvre le filtre OS pour sélectionner et là je constate que le filtre des OS de cette OP n'est plus actif, tous les OS de tous les OP sont sélectionnables. Il faut donc refaire depuis le -1. 
-",H004978 - TMA MARION,Anomalie,mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,major,V4.3.2,2023-06-23T10:40:56.000+0000,2023-06-23T10:40:56.000+0000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,06/23/2023 10:40,06/23/2023 10:40,,,
