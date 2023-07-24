@@ -2,7 +2,7 @@
 82854,Task,1,Closed,979 : PROCES VERBAL - version PDF du PV et PLANCHE PHOTO - non affichage des photos des désordres,"Les photos en .jpg s'affichent bien
 Les photos en .JPG ne s'affichent pas.
 
-idem pbl M903",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,V4.3.2,03/09/2022 18:58,09/12/2022 14:43,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
+idem pbl M903",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,V4.3.2,03/Sep/22 6:58 a,13/Dec/22 6:58 a,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
 
 Bonjour,
 
@@ -21,7 +21,7 @@ Merci
 85748,Task,1,In Progress,RECETTE V4.4.1 - Explorateur fiches techniques ligne - pour une meilleure présentation,"Je vous met les pdf des plans de ligne  à modifier en pj afin de remplacer ceux actuellement en place.
 Amélioration de la lisibilité, espace entre le plan de ligne et le tableau des lieux.
 Concerne les lignes Orlyval, M1, M3B, M7B, M9, M13, M13B, T1, T2, T3B, T6, T7 et TCSP
-Merci",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,11/21/2022 10:16,12/20/2022 14:42,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
+Merci",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,21/Nov/22 10:16 a,24/Dec/22 10:16 a,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
 
 Bonjour,
 
@@ -54,7 +54,7 @@ Cordialement
 Maxime PICHARD"
 85930,Task,1,Closed,RECETTE V4.4.1 - Explorateur - Fiches Techniques ouvrages - rubrique Caracétristiques / caractéristiques - DIMENSIONS/DONNEES G,"Ecrire 
 ""LONGUEUR TOTALE OUVRAGE""
-""HAUTEUR SOUS HOURDIS""",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,V4.3.2,12/15/2022 15:21,01/09/2023 15:48,"The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
+""HAUTEUR SOUS HOURDIS""",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,V4.3.2,15/Dec/22 3:21 a,31/Dec/22 3:21 a,"The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
 
 Bonjour William,
 
@@ -81,4 +81,4 @@ Maxime PICHARD
 -2 Je gère les désordres de cette OS
 -3 Je souhaite gérer les désordres d'un autre OS du même OP
 -4 J'ouvre le filtre OS pour sélectionner et là je constate que le filtre des OS de cette OP n'est plus actif, tous les OS de tous les OP sont sélectionnables. Il faut donc refaire depuis le -1. 
-",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,06/23/2023 10:40,06/23/2023 10:40,,,
+",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,23/Jun/23 10:40 a,24/Jul/23 10:40 a,,,
