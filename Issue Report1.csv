@@ -1,8 +1,8 @@
-﻿Issue ID,Issue Type,Time Spent,status,summary,description,reporter,assignee,resolution,priority,Product Version,created_at,updated_at,Comments1,Comments2,Comments3,History
-82854,Task,1,Closed,979 : PROCES VERBAL - version PDF du PV et PLANCHE PHOTO - non affichage des photos des désordres,"Les photos en .jpg s'affichent bien
+﻿Issue ID,summary,created_at,updated_at,Issue Type,Time Spent,status,description,reporter,assignee,resolution,priority,Product Version,Comments1,Comments2,Comments3,History
+TD-6,979 : PROCES VERBAL - version PDF du PV et PLANCHE PHOTO - non affichage des photos des désordres,03/09/2023 18:58,09/12/2023 14:43,Task,1,Closed,"Les photos en .jpg s'affichent bien
 Les photos en .JPG ne s'affichent pas.
 
-idem pbl M903",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,V4.3.2,03/09/2022 18:58,09/12/2022 14:43,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
+idem pbl M903",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Critical,V4.3.2,"The following public comment was added by 'mpichard' at '2022-03-25T11:22:08+01:00':
 
 Bonjour,
 
@@ -18,10 +18,10 @@ V4.3.11 - cette anomalie est à nouveau constatée.
 Sa résolution est urgente.
 Merci
 ",
-85748,Task,1,In Progress,RECETTE V4.4.1 - Explorateur fiches techniques ligne - pour une meilleure présentation,"Je vous met les pdf des plans de ligne  à modifier en pj afin de remplacer ceux actuellement en place.
+TD-7,RECETTE V4.4.1 - Explorateur fiches techniques ligne - pour une meilleure présentation,11/21/2023 10:16,12/20/2023 14:42,Task,1,In Progress,"Je vous met les pdf des plans de ligne  à modifier en pj afin de remplacer ceux actuellement en place.
 Amélioration de la lisibilité, espace entre le plan de ligne et le tableau des lieux.
 Concerne les lignes Orlyval, M1, M3B, M7B, M9, M13, M13B, T1, T2, T3B, T6, T7 et TCSP
-Merci",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,11/21/2022 10:16,12/20/2022 14:42,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
+Merci",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,"The following private comment was added by 'mpichard' at '2022-12-02T16:53:49+01:00':
 
 Bonjour,
 
@@ -52,9 +52,9 @@ Merci par avance
 
 Cordialement
 Maxime PICHARD",
-85930,Task,1,Closed,RECETTE V4.4.1 - Explorateur - Fiches Techniques ouvrages - rubrique Caracétristiques / caractéristiques - DIMENSIONS/DONNEES G,"Ecrire 
+TD-8,RECETTE V4.4.1 - Explorateur - Fiches Techniques ouvrages - rubrique Caracétristiques / caractéristiques - DIMENSIONS/DONNEES G,12/15/2023 15:21,01/09/2024 15:48,Task,1,Closed,"Ecrire 
 ""LONGUEUR TOTALE OUVRAGE""
-""HAUTEUR SOUS HOURDIS""",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,V4.3.2,12/15/2022 15:21,01/09/2023 15:48,"The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
+""HAUTEUR SOUS HOURDIS""",mahesh.banda@cgi.com,mahesh.banda@cgi.com,Done,Medium,V4.3.2,"The following private comment was added by 'mpichard' at '2022-12-16T14:22:57+01:00':
 
 Bonjour William,
 
@@ -76,9 +76,9 @@ Cordialement
 Maxime PICHARD
 
 ",
-87169,Task,1,Open,V4.4.8 - PV - filtres OP et OS,"Sur n'importe quel PV : 
+TD-9,V4.4.8 - PV - filtres OP et OS,06/23/2024 10:40,06/23/2024 10:40,Task,1,Open,"Sur n'importe quel PV : 
 -1 Je filtre un OP puis un OS de celui-ci
 -2 Je gère les désordres de cette OS
 -3 Je souhaite gérer les désordres d'un autre OS du même OP
 -4 J'ouvre le filtre OS pour sélectionner et là je constate que le filtre des OS de cette OP n'est plus actif, tous les OS de tous les OP sont sélectionnables. Il faut donc refaire depuis le -1. 
-",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,06/23/2023 10:40,06/23/2023 10:40,,,,
+",mahesh.banda@cgi.com,mahesh.banda@cgi.com,,Medium,V4.3.2,,,,
